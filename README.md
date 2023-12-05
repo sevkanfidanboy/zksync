@@ -46,7 +46,6 @@ The following guides for developers are available:
 - [Rust SDK](sdk/zksync-rs)
 
 ## Changelog
-
 Since the repository is big and is split into independent components, there is a different changelog for each of its
 major parts:
 
